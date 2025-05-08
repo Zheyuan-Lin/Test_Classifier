@@ -1,0 +1,77 @@
+{
+  "0": {
+    "Beam Characteristics": 0.13312659071350783,
+    "Special Procedures": 0.0945369829732863,
+    "Advanced Technologies": 0.07530800194490568
+  },
+  "1": {
+    "Beam Characteristics": 0.038816298467112396,
+    "Special Procedures": 0.0272493297023139,
+    "Radiation Quantities and Units": 0.023645101075000535
+  },
+  "2": {
+    "Atomic and Nuclear Structure": 0.13124004511167003,
+    "Radiation Quantities and Units": 0.025362629294135405,
+    "Fundamental Physics": 0.0
+  },
+  "3": {
+    "Special Procedures": 0.12893967025693528,
+    "Advanced Technologies": 0.07940611709412862,
+    "Beam Characteristics": 0.06386155954952462
+  },
+  "4": {
+    "Treatment Planning": 0.06283142730746198,
+    "Patient Management": 0.05656125985205918,
+    "Beam Characteristics": 0.026387822315112355
+  },
+  "5": {
+    "Fundamental Physics": 0.0,
+    "Atomic and Nuclear Structure": 0.0,
+    "Radiation Production": 0.0
+  },
+  "6": {
+    "Beam Characteristics": 0.056032316036263,
+    "Radiation Measurement": 0.02243940517112296,
+    "Radiation Quantities and Units": 0.01897770045597408
+  },
+  "7": {
+    "Radiation Quantities and Units": 0.025069720401771942,
+    "Fundamental Physics": 0.0,
+    "Atomic and Nuclear Structure": 0.0
+  },
+  "8": {
+    "Fundamental Physics": 0.0,
+    "Atomic and Nuclear Structure": 0.0,
+    "Radiation Production": 0.0
+  },
+  "9": {
+    "Imaging": 0.10176434714450323,
+    "Beam Characteristics": 0.09621225422130848,
+    "Patient Management": 0.056366586284663296
+  },
+  "10": {
+    "Patient Management": 0.09004256253351757,
+    "Beam Characteristics": 0.0852003116358808,
+    "Treatment Planning": 0.07776609750503802
+  },
+  "11": {
+    "Radiation Safety": 0.13958924191442998,
+    "Advanced Technologies": 0.1134248821679551,
+    "Radiation Interactions": 0.09819338078333678
+  },
+  "12": {
+    "Fundamental Physics": 0.0,
+    "Atomic and Nuclear Structure": 0.0,
+    "Radiation Production": 0.0
+  },
+  "13": {
+    "Fundamental Physics": 0.4046095379651714,
+    "Beam Characteristics": 0.11905654037092772,
+    "Patient Management": 0.061799077474215904
+  },
+  "14": {
+    "Atomic and Nuclear Structure": 0.11727732197106508,
+    "Radiation Production": 0.10421772205632661,
+    "Fundamental Physics": 0.0
+  }
+}

@@ -9,6 +9,11 @@ lime>=0.2.0.1
 shap>=0.40.0
 matplotlib>=3.4.3
 seaborn>=0.11.2
+nltk >= 3.7
+sentence-transformers>=2.2.2
+umap-learn>=0.5.3
+hdbscan>=0.8.29
+plotly>=5.13.1
 
 # Testing dependencies
 pytest>=6.2.5
@@ -31,3 +36,15 @@ pdfplumber>=0.7.0
 # Optional: Cloud storage
 google-cloud-storage>=2.0.0  # if using GCS
 boto3>=1.26.0  # if using AWS S3
+
+# Transformers dependencies
+transformers>=4.11.0
+torch>=1.9.0
+accelerate>=0.26.0
+bitsandbytes
+
+scikit-learn>=1.2.2
+gensim>=4.3.0
+pandas>=1.5.3
+numpy>=1.23.5
+joblib>=1.2.0

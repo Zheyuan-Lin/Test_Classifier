@@ -7,7 +7,7 @@ import logging
 from datetime import datetime
 from typing import Optional
 
-from src.config.constants import LOG_DIR
+from config.constants import LOG_DIR
 
 def setup_logger(name: str, log_file: Optional[str] = None, level: int = logging.INFO) -> logging.Logger:
     """
